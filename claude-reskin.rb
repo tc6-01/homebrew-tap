@@ -1,8 +1,8 @@
 class ClaudeReskin < Formula
   desc "Claude Code skill for system reskinning and refactoring"
   homepage "https://github.com/tc6-01/claude-reskin"
-  url "https://github.com/tc6-01/claude-reskin/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "c362416c79d00dd43bf35f8ea350000d91b75f940c9b98408aa8881524266f6f"
+  url "https://github.com/tc6-01/claude-reskin/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "50451c27ca5fe77b9633537a1339990a7903e3bf21ee8107ae963638a5ed3947"
   license "MIT"
 
   def install
